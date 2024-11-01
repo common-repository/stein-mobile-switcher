@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stein Mobile Switcher v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-10 22:33+0100\n"
+"PO-Revision-Date: 2012-10-10 22:33+0100\n"
+"Last-Translator: Matthias Stein <info@steinm.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ default
+#: ../stein-theme-switcher.php:97
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben nicht die nötigen Rechte diese Seite anzuzeigen."
+
+#: ../stein-theme-switcher.php:109
+msgid "This is the Stein Mobile Switcher. Select Templates for each device!"
+msgstr ""
+"Willkommen zum Stein Mobile Switcher. Wähle ein Template für das "
+"entsprechende Gerät."
+
+#: ../stein-theme-switcher.php:129
+msgid "iPhone / iPod Theme"
+msgstr "iPhone / iPod Theme"
+
+#: ../stein-theme-switcher.php:136
+msgid "Theme for iPhone- and iPod-Users"
+msgstr "Theme für  iPhone- und iPod-Nutzer"
+
+# @ default
+#: ../stein-theme-switcher.php:140
+msgid "Smartphone Theme"
+msgstr "Smartphone Theme"
+
+#: ../stein-theme-switcher.php:148
+msgid ""
+"Theme for Smartphone-Users (Android phones, multi-media MP3-Players, Windows "
+"Phone 7, etc.) without iPhone- and iPod"
+msgstr ""
+"Theme für Smartphone-Nutzer (Android Smartphones, Multimedia-MP3-Player,"
+"Windows Phone 7, usw.) ohne iPhone- und iPod"
+
+# @ default
+#: ../stein-theme-switcher.php:152
+msgid "Tablet Theme"
+msgstr "Tablet Theme"
+
+#: ../stein-theme-switcher.php:159
+msgid "Theme for Tablet-Users"
+msgstr "Theme für Tablet-Nutzer"
+
+#: ../stein-theme-switcher.php:195
+msgid "Go to"
+msgstr "Zur"
+
+#: ../stein-theme-switcher.php:195
+msgid "Website"
+msgstr "Website"
+
+# @ default
+#: ../stein-theme-switcher.php:214
+msgid "Go to Full Website"
+msgstr "Zur kompletten Webseite"
+
+# @ default
+#: ../stein-theme-switcher.php:232
+msgid "Go to Mobile Website"
+msgstr "Zur mobilen Webseite"
+
+# @ default
+#: ../stein-theme-switcher.php:250
+msgid "Go to Tablet Website"
+msgstr "Zur Tablet-Webseite"
+
+# @ default
+#~ msgid "Smartphone URL"
+#~ msgstr "Smartphone URL"
+
+# @ default
+#~ msgid "Tablet URL"
+#~ msgstr "Tablet URL"
+
+# @ default
+#, fuzzy
+#~ msgid ""
+#~ "This is the Stein Mobile Switcher. Select Templates for each device and "
+#~ "enter a URL (without \"http://\"), If you dont have a URL for your mobile "
+#~ "versions, leave that field blank!"
+#~ msgstr ""
+#~ "Das ist der Stein Mobile Switcher. Wählen Sie die entsprechenden "
+#~ "Templates für die Geräte und geben Sie jeweils eine URL an (ohne "
+#~ "http://). Haben Sie keine URLs für die entsprechende Version, lassen Sie "
+#~ "das Feld leer! "
